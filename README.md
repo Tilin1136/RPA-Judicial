@@ -76,8 +76,8 @@ GEMINI_API_KEY="TU_CLAVE_API_DE_GEMINI"
 
 ## 1.3. Instalación de Dependencias Python
 pip install -r requirements.txt
-# O manualmente:
-# pip install fastapi uvicorn python-multipart pydantic reportlab Pillow pytesseract pdf2image spacy transformers
+O manualmente:
+pip install fastapi uvicorn python-multipart pydantic reportlab Pillow pytesseract pdf2image spacy transformers
 
 ## 1.4. Ejecutar el Backend:
 uvicorn main:app --reload
