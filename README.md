@@ -99,11 +99,12 @@ npm install
 
 ## 2.3. Ejecutar el Frontend
 npm run dev
-# o
-# yarn dev
-
+o
+yarn dev
 Abre: http://localhost:5173
 Asegúrate de que apunte al backend: http://127.0.0.1:8000
+
+
 ```bash
 
 
